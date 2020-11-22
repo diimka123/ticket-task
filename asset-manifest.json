@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ticket-task/static/css/main.fb90be2b.chunk.css",
+    "main.js": "/ticket-task/static/js/main.88eaad90.chunk.js",
+    "main.js.map": "/ticket-task/static/js/main.88eaad90.chunk.js.map",
+    "runtime-main.js": "/ticket-task/static/js/runtime-main.6fbe3b5e.js",
+    "runtime-main.js.map": "/ticket-task/static/js/runtime-main.6fbe3b5e.js.map",
+    "static/js/2.f0d2ce75.chunk.js": "/ticket-task/static/js/2.f0d2ce75.chunk.js",
+    "static/js/2.f0d2ce75.chunk.js.map": "/ticket-task/static/js/2.f0d2ce75.chunk.js.map",
+    "index.html": "/ticket-task/index.html",
+    "precache-manifest.7bc26adebced82f7042b7427deae2a60.js": "/ticket-task/precache-manifest.7bc26adebced82f7042b7427deae2a60.js",
+    "service-worker.js": "/ticket-task/service-worker.js",
+    "static/css/main.fb90be2b.chunk.css.map": "/ticket-task/static/css/main.fb90be2b.chunk.css.map",
+    "static/js/2.f0d2ce75.chunk.js.LICENSE.txt": "/ticket-task/static/js/2.f0d2ce75.chunk.js.LICENSE.txt",
+    "static/media/avia-logo.svg": "/ticket-task/static/media/avia-logo.0c089234.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fbe3b5e.js",
+    "static/js/2.f0d2ce75.chunk.js",
+    "static/css/main.fb90be2b.chunk.css",
+    "static/js/main.88eaad90.chunk.js"
+  ]
+}
